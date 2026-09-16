@@ -1,0 +1,12 @@
+order_id,order_date,customer_segment,city,category,quantity,unit_price,discount_pct,payment_status,order_date_year,order_date_month,order_date_month_name,order_date_quarter,calculated_sales
+RT-1001,2026-01-03,Student,Chennai,Learning Kit,2.0,799,10.0,Paid,2026.0,1.0,January,1.0,1598.0
+RT-1002,,Fresher,Bengaluru,Course Access,1.0,1499,0.0,paid,,,,,1499.0
+RT-1003,2026-01-05,student,Chennai,Course Access,1.0,1499,2.5,Pending,2026.0,1.0,January,1.0,1499.0
+RT-1004,2026-01-07,Professional,Hyderabad,Learning Kit,3.0,799,5.0,Paid,2026.0,1.0,January,1.0,2397.0
+RT-1005,2026-01-09,Fresher,Chennai,Mentor Session,1.0,999,0.0,Failed,2026.0,1.0,January,1.0,999.0
+RT-1006,,Student,Pune,Learning Kit,-0.5,799,10.0,Paid,,,,,-399.5
+RT-1007,2026-01-12,Professional,Mumbai,Mentor Session,2.0,999,25.0,Paid,2026.0,1.0,January,1.0,1998.0
+RT-1008,2026-01-14,Fresher,Bengaluru,Course Access,1.0,1499,0.0,Pending,2026.0,1.0,January,1.0,1499.0
+RT-1009,2026-01-16,Student,Chennai,Learning Kit,1.0,799,0.0,Paid,2026.0,1.0,January,1.0,799.0
+RT-1010,2026-01-18,Professional,Delhi,Course Access,2.0,1499,15.0,Refunded,2026.0,1.0,January,1.0,2998.0
+RT-1011,,Student,Kochi,Mentor Session,1.0,999,0.0,Paid,,,,,999.0
